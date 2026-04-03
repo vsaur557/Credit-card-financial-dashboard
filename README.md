@@ -68,3 +68,6 @@ This project demonstrates how SQL and Power BI can be combined to:
 * Create interactive dashboards
 * Generate business insights
 
+ ## 📷 Dashboard Screenshot
+
+https://raw.githubusercontent.com/vsaur557/AQI-Index-Analysis-DashBoard/main/Screenshot%202026-04-03%20143426.png
